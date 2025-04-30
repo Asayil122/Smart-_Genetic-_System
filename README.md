@@ -8,7 +8,7 @@
 * This application was fully developed using JDK23, and is based on the JavaFX Framework,version 23.0.1
 * program's UIs designed using SceneBuilder
 * The program's icons and logo were sourced from FlatIcon
-* Account creation an account is OTP sent to the user's email
+* Account creation is authenticated ccount is OTP sent to the user's email
 ---
 * Programmed by:
   - Mead S. Alruwaili
