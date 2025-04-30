@@ -5,7 +5,7 @@
 * The program can print a report of the patient's data or can be sent by his/her email after he/she's being diagnosed.
 ---
 
-* This application was fully developed using JDK23, and is Framework used is JavaFX23.0.1
+* This application was fully developed using JDK23, and is based Framework used is JavaFX23.0.1
 * program's UIs designed using SceneBuilder
 * program's icons and logo are downloaded from FlatIcon
 * The Authentication used to create an account is OTP sent to the user's email
